@@ -1,0 +1,23 @@
+{
+ "title": "CTLE Census",
+ "source": "IEEE Xplore API (records collected by adc-census)",
+ "updated": "2026-10-28",
+ "coverage_from": "1997-01",
+ "coverage_to": "2026-10",
+ "total": 327,
+ "core": 122,
+ "rx": 205,
+ "by_venue": {
+  "JSSC": 84,
+  "TCAS-II": 27,
+  "TCAS-I": 29,
+  "CICC": 28,
+  "ISSCC": 54,
+  "A-SSCC": 21,
+  "ESSCIRC": 10,
+  "VLSI": 50,
+  "TVLSI": 16,
+  "SSC-L": 8
+ },
+ "last_run_new": 0
+}
